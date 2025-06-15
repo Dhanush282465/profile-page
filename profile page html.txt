@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hi, I'm J.Dhanush</h1>
+        <p>Welcome to my personal space on the web.</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a passionate learner who enjoys building things and solving problems. I have a strong interest in technology and I'm always looking for ways to grow and improve.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Python & basic data analysis</li>
+            <li>Version control with Git</li>
+            <li>Problem solving & communication</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>srm university</strong><br>
+        b-tech<br>
+        [2023] – [2027]</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Gmail: <a href="dhanush.chandu834@gmail.com">your.email@example.com</a></p>
+
+    </section>
+
+    <footer>
+        <p>© Dhanush, 2025</p>
+    </footer>
+</body>
+</html>
